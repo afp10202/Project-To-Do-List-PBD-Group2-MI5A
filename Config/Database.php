@@ -9,7 +9,7 @@
 {
     $host = "localhost";
     $port= 3306;
-    $database = "todolist";
+    $database = "db_todolist";
     $username = "root";
     $password = "";
 
